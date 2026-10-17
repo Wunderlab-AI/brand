@@ -1,0 +1,10 @@
+:root {
+  --wl-ink: #17122B;
+  --wl-paper: #F5F4FB;
+  --wl-violet: #6B4EFF;
+  --wl-teal: #2FD9BC;
+  --wl-brass: #FFC24D;
+  --wl-gradient-liquid: linear-gradient(90deg, var(--wl-violet), var(--wl-teal));
+  --wl-font-display: "Lora", Georgia, serif;
+  --wl-font-ui: "Poppins", system-ui, sans-serif;
+}

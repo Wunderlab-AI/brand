@@ -1,0 +1,51 @@
+<!-- Template drafted for your review. Have a lawyer check it before relying on it, and fill in the placeholders. -->
+
+# Wunderlab Brand Assets License
+
+Copyright (c) 2026 Wunderlab-AI. All rights reserved except as granted below.
+
+## Scope
+
+This license covers the Wunderlab name, wordmark, logos, marks, icons, and brand sheet (the "Brand Assets"): the contents of `svg/`, `png/`, and `brand-sheet.png`, and any other file in this repository marked as a Brand Asset.
+
+It does not cover `tokens/`, which is released under the MIT License (see `tokens/LICENSE`), or the Wunderlab software, which is licensed separately in each repository.
+
+## 1. You may, without asking
+
+1. Refer to Wunderlab by name, accurately, including in articles, reviews, tutorials, talks, videos, and comparisons.
+2. Show the **unmodified** logo to identify or link to the real Wunderlab project, for example on a page about Wunderlab, in a list of compatible tools, or on a conference slide.
+3. State that your project integrates with or works with Wunderlab, and show the unmodified logo next to that statement, as long as it is clear that your project is not official.
+4. Redistribute official, unmodified Wunderlab releases (for example in a package repository) with the Brand Assets they ship with.
+5. Resize the logo proportionally and place it on a background that keeps it legible.
+
+## 2. You need written permission to
+
+1. Modify the Brand Assets, create new variants, or recolor them.
+2. Use the Brand Assets, or a confusingly similar name or mark, as part of your own product, company, domain, organization, package, or social account name.
+3. Sell or give away merchandise bearing the Brand Assets.
+4. Offer a hosted service, app, or distribution under the Wunderlab name or logo, or in a way that suggests it is the official Wunderlab service, including its supporter or cloud tier.
+5. Suggest endorsement, sponsorship, or partnership by Wunderlab or its maintainers.
+
+## 3. Forks and modified builds
+
+You are free to fork the software under its software license. If you distribute a version with changed features or behavior, give it a different name and your own branding, and describe it as "based on Wunderlab" or "a fork of Wunderlab". Minimal changes needed to build or package the software (build flags, install paths, fixes you intend to contribute upstream) may keep the name.
+
+## 4. Please don't
+
+Stretch, rotate, add effects to, or change the colors of the logo; combine it with other marks into a new mark; or use it in a way that is misleading, defamatory, or unlawful.
+
+## 5. Ownership
+
+Nothing in this license transfers ownership of the Brand Assets or grants any right beyond those stated. All goodwill from your use of the Brand Assets benefits their owner. Nothing here limits any rights the owner has under trademark or copyright law.
+
+## 6. Revocation
+
+Permission under this license may be withdrawn for any use that breaks these terms or misleads people about the source of a product or service.
+
+## 7. No warranty
+
+The Brand Assets are provided "as is", without warranty of any kind.
+
+## Contact
+
+Permission requests: hello@wunderlab.eu
