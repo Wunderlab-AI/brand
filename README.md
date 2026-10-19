@@ -1,10 +1,19 @@
-# Wunderlab brand
-
-Logos, icons, colors, and usage guidelines for [Wunderlab](https://wunderlab.eu), the local-first AI workspace.
-
 <p align="center">
   <img alt="Wunderlab logo" src="svg/wunderlab-logo-horizontal.svg" width="420">
 </p>
+ 
+<p align="center">
+  <a href="https://www.repostatus.org/#wip">
+    <img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: Work in Progress">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License">
+  </a>
+</p>
+
+# Wunderlab brand
+
+Logos, icons, colors, and usage guidelines for [Wunderlab](https://wunderlab.eu), the local-first AI workspace.
 
 ## What's here
 
